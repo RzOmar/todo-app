@@ -16,7 +16,7 @@ export const InputArea = (props) => {
           setInputText("");
         }}
       >
-        <span>Add Task</span>
+        <span>Add</span>
       </button>
     </div>
   );
